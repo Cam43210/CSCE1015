@@ -1,3 +1,2 @@
 # CR0840
-Favorite Linux Command
-tldr <command>
+Favorite Linux Command tldr<command>
